@@ -10,3 +10,4 @@ var Rellax = new Rellax('.rocket');
 if (document.body.clientWidth < 576) {
     rellax.destroy();
 }
+AOS.init();

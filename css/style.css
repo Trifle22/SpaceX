@@ -222,4 +222,7 @@ body {
     .main {
         padding-top: 50px;
     }
+    .features {
+        padding-bottom: 0;
+    }
 }
